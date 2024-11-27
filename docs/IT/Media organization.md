@@ -1,5 +1,4 @@
-#Resource 
-#IT 
+
 
 [[NAS]] Currently hosts media using these instances.
 

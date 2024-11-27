@@ -1,5 +1,4 @@
-#IT 
-#Homelab 
+
 SSHFS for file transfers
 
 using bottles for 3rd party games and launchers

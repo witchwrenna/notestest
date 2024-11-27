@@ -1,6 +1,4 @@
-#IT 
-#Homelab
-#Resource 
+
 
 Relevant pages:
 [[PSUs]]

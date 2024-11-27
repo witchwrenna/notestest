@@ -1,6 +1,4 @@
-#Resource 
-#IT 
-#Homelab 
+
 https://www.reddit.com/r/MoonlightStreaming/comments/11pu31l/moonlight_sunshine_with_an_nvidia_shield_pro/
 
 pluses:
